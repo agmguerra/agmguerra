@@ -5,14 +5,11 @@ Mais de 20 anos atuando em Tecnologia da Informação com experiência em gerenc
 Specialties: Desenvolvimento de aplicações, Coordenação de equipes em projetos de tecnologia, Avaliação de requerimentos e tecnologias para e-business; Arquitetura Java J2EE e Arquitetura Orientada a Serviços (SOA); Projetos e programação orientados a objeto utilizando UML com Rational Software Architect. Utilização de ferramenta de Integração Contínua IPS (WDEV)
 Utilização de Padrões de Projeto; Projeto de aplicações multicamadas e banco de dados distribuído; modelagem de dados; Mentoring e treinamento em Java EE, desenvolvimento Web, Struts, EJB, Spring, SpringBoot, Javascript, Python, AWS.
 
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandregmguerra/)
 
-
-## Expertise
-
-[<img align="left" alt="" src="https://img.shields.io/badge/Java-Java%20EE%20-blue" />](https://www.linkedin.com/in/alexandregmguerra/)
 
 
 <!--
