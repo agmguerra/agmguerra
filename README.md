@@ -1,3 +1,5 @@
+## About Me ##
+
 Mais de 20 anos atuando em Tecnologia da Informação com experiência em gerenciamento técnico de projetos, arquitetura de aplicações, suporte, projeto e programação de aplicações. Atuo há 16 anos como Líder Técnico e arquiteto de software especializado na plataforma Java EE. Ministrei cursos de Orientação a Objetos, Java, Java EE, Padrões de Projeto, UML para equipes de várias empresas (Bradesco, Sul América, Datamec, Dataprev, etc). Atuei como mentor para equipes de projetos que estavam qualificando-se na plataforma JavaEE. Especializado em produtos IBM, com foco na família WebSphere, mas capaz de integrar a solução com toda a família IBM (Rational e DB2).
 
 Specialties: Desenvolvimento de aplicações, Coordenação de equipes em projetos de tecnologia, Avaliação de requerimentos e tecnologias para e-business; Arquitetura Java J2EE e Arquitetura Orientada a Serviços (SOA); Projetos e programação orientados a objeto utilizando UML com Rational Software Architect. Utilização de ferramenta de Integração Contínua IPS (WDEV)
