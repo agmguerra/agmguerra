@@ -1,3 +1,8 @@
+<h1 align="center">👋, I'm Alexandre Guerra</h1>
+<h3 align="center">Software Architect | Software Engineer | Senior Java Developer</h3>
+
+- 📫 How to reach me **agmguerra@gmail.com**
+
 ## About Me
 
 More than 25 years in Information Technology with experience as technical leadership, application architecture, design and application programming. I have been working for 16 years as Technical Leader and software architect specializing in the Java EE platform. I taught courses in Object Object oriented programming, Java, Java EE, Design Patterns, UML for teams from various companies (Bradesco, South America, Datamec, Dataprev, etc). I acted as a mentor for project teams that were qualifying on the JavaEE platform. Specialized in IBM products, focused on the WebSphere family, but able to integrate the solution with the entire IBM family (Rational and DB2).
@@ -7,21 +12,15 @@ Specialties: Application development, Team coordination in technology projects, 
 
 ## Connect with me
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexandregmguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandregmguerra" height="30" width="40" /></a>
+<a href="https://fb.com/alexandre.guerra.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandre.guerra.br" height="30" width="40" /></a>
+</p>
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandregmguerra/)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
-<!--
-**agmguerra/agmguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
