@@ -1,7 +1,5 @@
-<h1 align="center">👋, I'm Alexandre Guerra</h1>
-<h3 align="center">Software Architect | Software Engineer | Senior Java Developer</h3>
-
-- 📫 How to reach me **agmguerra@gmail.com**
+<h1>👋, I'm Alexandre Guerra</h1>
+<h3>Software Architect | Software Engineer | Senior Java Developer</h3>
 
 ## About Me
 
