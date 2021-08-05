@@ -11,9 +11,7 @@ Specialties: Application development, Team coordination in technology projects, 
 
 
 ## Connect with me
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandregmguerra/)
   
 <a href="https://fb.com/alexandre.guerra.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandre.guerra.br" height="30" width="40" /></a>
